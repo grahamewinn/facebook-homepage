@@ -1,5 +1,3 @@
 # facebook-homepage
 
-Another attempt to copy a website to learn html/css
-
-working on The Odin Project
+Copying the Facebook homepage. Built entirely with vanilla html/css.  
